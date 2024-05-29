@@ -21,15 +21,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChandraBudiWijaya/ChandraBudiWijaya/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ChandraBudiWijaya.ChandraBudiWijaya&"  />
 </div>
@@ -83,3 +74,12 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ChandraBudiWijaya/ChandraBudiWijaya/output/snake.svg" alt="Snake animation" />
+
+###
+
