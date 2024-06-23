@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Chandra Budi Wijaya<br><br>- 🔭 I’m working as college student<br>- 📚 I'm currently learn WebDev with TailWind<br>- ⚡ In my free time I learning everything</p>
+<p align="left">I'm Chandra Budi Wijaya<br><br>- 🔭 I’m working as college student<br>- 📚 I'm currently learn WebDev with Tailwind<br>- ⚡ In my free time I learning everything</p>
 
 ###
 
